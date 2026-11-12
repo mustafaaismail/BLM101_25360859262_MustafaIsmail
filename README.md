@@ -17,4 +17,4 @@ Algoritmanın temel fonksiyonları ve çalışma mantığı şunlardır:
 * **durumu_goster:** `for` döngüsü ve `1 << i` maskesi kullanarak baytın içindeki her bir biti `&` (AND) operatörüyle kontrol eder. Hangi bitin 1, hangisinin 0 olduğuna bakarak sonucu ekrana kutucuklar ve tablo halinde yazdırır.
 * **ozellik_ac:** Seçilen cihazı açmak için `1 << no` ile oluşturulan maskeyi `|` (OR) operatörüyle ana bayta ekler ve sadece hedef biti 1 yapar.
 * **ozellik_kapat:** Cihazı kapatmak için önce `~` (NOT) ile maskeyi ters çevirip ardından `&` (AND) operatörünü kullanarak o biti 0 yapar.
-* **ozellik_tersle:** Cihaz açıksa kapatmak, kapalıysa açmak için hedef biti `^` (XOR) operatörüyle tersine çevirir.[cite: 1, 2, 3, 6]
+* **ozellik_tersle:** Cihaz açıksa kapatmak, kapalıysa açmak için hedef biti `^` (XOR) operatörüyle tersine çevirir.
