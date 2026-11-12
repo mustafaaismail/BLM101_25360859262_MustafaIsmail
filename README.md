@@ -2,7 +2,7 @@
 
 ## Öğrenci Bilgileri
 * **Ad Soyad:** Mustafa İsmail
-* **Öğrenci Numarası:** 2560859262
+* **Öğrenci Numarası:** 25360859262
 * **Proje Konusu:** 3. Grup - Bilgisayar Mimarisi ve Bit Düzeyinde İşlemler (Bit Maskeleme Paneli)
 
 ## Kurulum ve Çalıştırma
